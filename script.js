@@ -52,6 +52,3 @@ function convertCurrency(amount, price, symbol) {
         alert('Ocorreu um erro durante a conversão de moeda.');
     }
 }
-
-// exibindo a cotação da moeda
-
